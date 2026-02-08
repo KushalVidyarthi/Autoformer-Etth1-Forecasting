@@ -1,0 +1,16 @@
+# Datasets
+ETTh1.csv
+data/
+
+# Virtual environments
+autoformer_gpu/
+.venv/
+
+# Model outputs
+checkpoints/
+*.pth
+*.ckpt
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
